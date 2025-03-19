@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Banco de Dados
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+database/
+
+# Configurações do ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs/
+*.log
+debug.log
+error.log
+out.log
+*.pid
+*.seed
+*.pid.lock
+
+# Build e Deploy
+dist/
+build/
+coverage/
+.DS_Store
+.idea/
+.vscode/
+.eslintcache
+.cache/
+.next/
+out/
+public/
+
+# Docker e Outros
+docker-compose.override.yml
+*.swp
+*.swo
+*.swn
+*.bak
+Thumbs.db

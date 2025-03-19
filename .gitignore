@@ -41,7 +41,7 @@ coverage/
 .cache/
 .next/
 out/
-public/
+
 
 # Docker e Outros
 docker-compose.override.yml
